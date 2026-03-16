@@ -1,0 +1,9 @@
+File Fingerprint Manifest
+Document: AI_Incentive_Cage_DZilva.pdf
+SHA256 Hash: 1e2c660d8c11d4b01fec28a733988fbddbbcd3b72356ac4c1116828984da8c2a
+OpenTimestamps Proof File: AI_Incentive_Cage_Dzilva.pdf.ots
+Timestamp Verification URL / Command:
+Bash
+Copy code
+ots verify AI_Incentive_Cage_DZilva.pdf.ots
+Purpose: Cryptographic proof of existence and integrity as of the timestamp in .ots, independent of any single party.

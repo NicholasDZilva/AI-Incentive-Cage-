@@ -28,23 +28,11 @@ The AI Incentive Cage offers a lens for understanding why AI may systematically 
 
 ## Repository Contents
 
-- `AI_Incentive_Cage_DZilva.pdf` — the full research paper.  
-- `AI_Incentive_Cage_DZilva.pdf.ots` — OpenTimestamps proof of existence and integrity.  
-- `manifest.md` — fingerprint manifest linking the PDF to the timestamp proof.
+- `AI_Incentive_Cage_DZilva.pdf` — the full research paper.   
+- `fingerprint manifest.txt` — fingerprint manifest linking the PDF to the timestamp proof.
 
 ---
 
-## Verifying the Timestamp
-
-This repository includes a cryptographic proof that the paper existed at the time of publication. To verify:
-
-1. Install `opentimestamps-client` from [OpenTimestamps](https://opentimestamps.org/).  
-2. Run the verification command:
-
-```bash
-ots verify AI_Incentive_Cage_DZilva.pdf.ots
-3. Ensure the hash matches the original PDF:
-Copy code
 
 SHA256: 1e2c660d8c11d4b01fec28a733988fbddbbcd3b72356ac4c1116828984da8c2a
 This confirms the document has not been altered since its timestamp was created.
